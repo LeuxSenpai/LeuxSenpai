@@ -5,10 +5,11 @@ From game dev to AI, ethical hacking, ₿ Bitcoin, and full-stack — I’ve don
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Leux/30-nites-of-code)  
   ![@Leux #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Leux)
+
 🤝 Connect with me:
-[Syed Aman Ahmed](https://www.linkedin.com/in/syed-a-a3228a2ba/) | LinkedIn
-Syed Aman Ahmed | Twitter
-Syed Aman Ahmed | GitHub
+[LinkedIn](https://www.linkedin.com/in/syed-a-a3228a2ba/)
+[Twitter](https://x.com/AmanAhmed153108) 
+
 
 
 💼 Technical Skills
