@@ -9,9 +9,6 @@ From game dev to AI, ethical hacking, ₿ Bitcoin, and full-stack — I’ve don
 
 💼 Technical Skills
 
-Python|JavaScript|C++|Dart|HTML5|CSS3|React|Node.js|Django|MERN|MongoDB|MySQL|PostgreSQL|Firebase|OpenCV|Pandas|Flutter|Phaser.js|Git|Docker|Photoshop
-
-
 
 Languages: Python, JavaScript, HTML, CSS, Dart, SQL
 
